@@ -1,6 +1,7 @@
 # ChineseCulture
 > 扬中国诗歌之美`(To promote the beauty of Chinese poetry)`
 
+ <img align="center" width="70%" src="https://www.sister.vuegoer.cn/wp-content/uploads/2021/10/2021103104090896.jpeg" alt="中华文化">
 
 ###  背景
 > 现代的中国古诗开始走向没落了，不希望看到六千多年的文化在我们这一辈消失。`(Modern Ancient Chinese poetry is beginning to decline, we do not want to see the 6,000-year culture disappear in our generation.  )`
